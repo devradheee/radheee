@@ -1,8 +1,4 @@
 # Portfolio of Radheshyam Kumar
-<<<<<<< HEAD
-
-=======
->>>>>>> d267ab7e429bcca933a14adaceff351ccea0b11b
  
 This project was created with CRA (Create React App)
 
